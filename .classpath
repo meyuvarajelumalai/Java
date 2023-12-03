@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C drive/Yui/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/bcutil-jdk18on-1.75.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/commons-lang3-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/docker-java-transport-httpclient5-3.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/webdrivermanager-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/bcpkix-jdk18on-1.75.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/bcprov-jdk18on-1.75.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/docker-java-3.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/docker-java-api-3.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/docker-java-core-3.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/docker-java-transport-3.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/jna-5.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/jar_files (4)/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/commons-io-2.13.0-bin (1)/commons-io-2.13.0/commons-io-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/commons-io-2.13.0-bin (1)/commons-io-2.13.0/commons-io-2.13.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/commons-io-2.13.0-bin (1)/commons-io-2.13.0/commons-io-2.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/commons-io-2.13.0-bin (1)/commons-io-2.13.0/commons-io-2.13.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yuvaa/Downloads/commons-io-2.13.0-bin (1)/commons-io-2.13.0/commons-io-2.13.0-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
